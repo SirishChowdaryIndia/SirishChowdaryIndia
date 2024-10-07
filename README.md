@@ -11,10 +11,9 @@
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-            
+![snake gif](https://github.com/SirishChowdaryIndia/SirishChowdaryIndia/blob/output/github-contribution-grid-snake.gif)
             
 ---
 [![](https://visitcount.itsvg.in/api?id=SirishChowdaryIndia&icon=2&color=0)](https://visitcount.itsvg.in)
 
-  - name: generate-snake-game-from-github-contribution-grid
-                uses: Platane/snk@v3.2.0
+![snake gif](https://github.com/SirishChowdaryIndia/SirishChowdaryIndia/blob/output/github-contribution-grid-snake.gif)
